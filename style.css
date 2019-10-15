@@ -55,10 +55,11 @@ body {
       top: 30px;
       left: -245px;
     }
-			.shape4 {
-			border: 50px solid #dcf8077a;
-	    border-radius: 100px;
-	    height: 306px;
-	    width: 250px;
-	    margin-left: 177px;
-	    margin-top: -166px;
+   .shape4 {
+     border: 50px solid #dcf8077a;
+     border-radius: 100px;
+     height: 306px;
+     width: 250px;
+     margin-left: 177px;
+     margin-top: -166px;
+}
